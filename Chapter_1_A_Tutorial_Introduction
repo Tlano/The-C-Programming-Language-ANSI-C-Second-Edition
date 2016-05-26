@@ -1,3 +1,13 @@
+/*This introduction concentrates on the basics: variables and constants, arithmetic,
+control flow, functions, and the basics of input and output. Pointers, structures,
+operators, control-flow statements, and the standard library will be left out.
+Both experiencced programmers and beginners can use this chapter as a framework.*/
+
+/*To following program prints "hello, world "*/
+
+
+/*A C program consits 
+
 #include <stdio.h>
 
 main()
